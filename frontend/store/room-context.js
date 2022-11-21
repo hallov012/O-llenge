@@ -71,6 +71,7 @@ function RoomContextProvider({ children }) {
 
   const resetRoom = function () {
     setCGinfo(new Object())
+    setUser(new Array())
   }
 
   const value = {
