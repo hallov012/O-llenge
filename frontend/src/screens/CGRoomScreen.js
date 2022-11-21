@@ -28,7 +28,7 @@ function CGRoomScreen() {
   const [isAuthed, setIsAuth] = useState(false)
   const [isResist, setIsResist] = useState(false)
   const [isTime, setIsTime] = useState("")
-  const [visible, setVisible] = useState()
+  const [visible, setVisible] = useState(false)
 
   const hideModal = function () {
     setVisible(false)
