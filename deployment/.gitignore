@@ -1,9 +1,0 @@
-.env
-certbot-etc/accounts
-certbot-etc/archive
-certbot-etc/csr
-certbot-etc/keys
-certbot-etc/live
-certbot-etc/renewal
-certbot-etc/renewal-hooks
-nginx-conf/options-ssl-nginx.conf
